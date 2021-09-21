@@ -12,8 +12,4 @@
 <a href="https://www.linkedin.com/in/daniele-karoline-carvalho-rosa-8a89a61b0/" target="_blanc"><img src="linkedin.png" height="100px"></a>
 
 
-<img  width="220" height="210" src="https://media.giphy.com/media/maNB0qAiRVAty/giphy.gif?cid=ecf05e47xla7l1l4b46qn12cbsa3ureg518myxavod7lx2wo&rid=giphy.gif&ct=g">
-
-<img src='https://media.giphy.com/media/l41JU9pUyosHzWyuQ/giphy.gif' width="220" height="210" style="align-items: center; margin-right: 100px;">
-
-<img src='https://giphy.com/gifs/5Zesu5VPNGJlm' width="220" height="210" style="align-items: center; margin-right: 20px;">
+<img  width="220" height="210" src="https://media.giphy.com/media/maNB0qAiRVAty/giphy.gif?cid=ecf05e47xla7l1l4b46qn12cbsa3ureg518myxavod7lx2wo&rid=giphy.gif&ct=g" style="margin-left: 150px;">
