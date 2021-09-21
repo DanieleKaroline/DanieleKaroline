@@ -8,5 +8,5 @@
 </div>
 
 <h3>Caso queira, pode me encontrar em: </h3>
-<a href="mailto:carvalho.danielekr@gmail.com" target="_blanc"><img src="gm.png"></a>
-<a href="https://www.linkedin.com/in/daniele-karoline-carvalho-rosa-8a89a61b0/" target="_blanc"><img src="linkedin.png"></a>
+<a href="mailto:carvalho.danielekr@gmail.com" target="_blanc"><img src="gm.png" height="100px"></a>
+<a href="https://www.linkedin.com/in/daniele-karoline-carvalho-rosa-8a89a61b0/" target="_blanc"><img src="linkedin.png" height="100px"></a>
