@@ -10,6 +10,7 @@
 <h3>Caso queira, pode me encontrar em: </h3>
 <a href="mailto:carvalho.danielekr@gmail.com" target="_blanc"><img src="gm.png" height="100px"></a>
 <a href="https://www.linkedin.com/in/daniele-karoline-carvalho-rosa-8a89a61b0/" target="_blanc"><img src="linkedin.png" height="100px"></a>
+<br><br><br>
+<img  width="220" height="210" src="https://media.giphy.com/media/maNB0qAiRVAty/giphy.gif?cid=ecf05e47xla7l1l4b46qn12cbsa3ureg518myxavod7lx2wo&rid=giphy.gif&ct=g">
 
-
-<img  width="220" height="210" src="https://media.giphy.com/media/maNB0qAiRVAty/giphy.gif?cid=ecf05e47xla7l1l4b46qn12cbsa3ureg518myxavod7lx2wo&rid=giphy.gif&ct=g" style="margin-left: 150px;">
+<div>Ícones feitos por <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com</a></div>
