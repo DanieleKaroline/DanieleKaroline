@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanieleKaroline&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-<h3>Caso queira, pode me encontrar: </h3>
-<a href="mailto:carvalho.danielekr@gmail.com" target="_blanc">Por e-mail</a><br>
+<h3>Caso queira, pode me encontrar </h3>
+<a href="mailto:carvalho.danielekr@gmail.com" target="_blanc">Por e-mail</a> ou
 <a href="https://www.linkedin.com/in/daniele-karoline-carvalho-rosa-8a89a61b0/" target="_blanc">Pelo LinkedIn</a>
 <br><br><br>
