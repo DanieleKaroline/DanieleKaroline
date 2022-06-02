@@ -7,6 +7,6 @@
 </div>
 
 <h4>Caso queira, pode me encontrar</h4>
-<h4><a href="mailto:carvalho.danielekr@gmail.com" target="_blanc">por e-mail</a></h4><h4> ou</h4>
+<h4><a href="mailto:carvalho.danielekr@gmail.com" target="_blanc">E-mail</a></h4>
 <h4><a href="https://www.linkedin.com/in/daniele-karoline-carvalho-rosa-8a89a61b0/" target="_blanc"> LinkedIn</a></h4>
 <br><br><br>
