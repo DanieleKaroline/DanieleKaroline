@@ -6,7 +6,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanieleKaroline&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-<h4>Caso queira, pode me encontrar</h4>
-<h4><a href="mailto:carvalho.danielekr@gmail.com" target="_blanc">E-mail</a></h4>
-<h4><a href="https://www.linkedin.com/in/daniele-karoline-carvalho-rosa-8a89a61b0/" target="_blanc"> LinkedIn</a></h4>
-<br><br><br>
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </img>
+<img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> </img>
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </img>
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"> </img>
+<img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </img>
+<img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"> </img>
+<img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" width="5%"> </img>
