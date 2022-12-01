@@ -5,11 +5,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanieleKaroline&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanieleKaroline&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </img>
-<img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> </img>
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" width="10.8%"> </img>
-<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" width="9.6%"> </img>
-<img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </img>
-<img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"> </img>
-<img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" width="5%"> </img>
+![](https://github-readme-stats.vercel.app/api?username=dreyrobert&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dreyrobert&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dreyrobert&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
