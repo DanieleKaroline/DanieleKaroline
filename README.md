@@ -25,5 +25,5 @@
 
 <img align="left" src="https://media.giphy.com/media/CTX0ivSQbI78A/giphy.gif" width="300px" heigth="225px"/>
 <img align="right" src="https://media.giphy.com/media/xT5LMXA2FClO5yvy80/giphy.gif" width="300px" heigth="225px"/>
-<br>
+<br><br>
 
