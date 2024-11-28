@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Dani GitHub stats](https://github-readme-stats.vercel.app/api?username=DanieleKaroline&show_icons=true&theme=radical&count_private=true)
+![Dani GitHub stats](https://github-readme-stats.vercel.app/api?username=DanieleKaroline&show_icons=true&theme=radical&count_private=true) <br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanieleKaroline&hide_progress=true&theme=radical)
           
 </div>
@@ -39,9 +39,11 @@
 <a href="[https://www.linkedin.com/in/seu-usuário-linkedln-aqui](https://www.linkedin.com/in/danielekarolinec/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div><br><hr>
 
-
-
+<div align="center"> 
+          
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+</div>
 
 <img align="left" src="https://media.giphy.com/media/CTX0ivSQbI78A/giphy.gif" width="300px" heigth="225px"/>
 <img align="right" src="https://media.giphy.com/media/xT5LMXA2FClO5yvy80/giphy.gif" width="300px" heigth="225px"/>
