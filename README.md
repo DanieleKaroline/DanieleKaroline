@@ -16,7 +16,7 @@
 ```diff
 
 > estudante de Ciência da Computação, na UFFS.
-> fã de Opensource, Infra, Redes e BD.
+> fã de Opensource, Infra, Redes, DevOps e Sec.
 
 ! chegada numa cultura geek
 ! founder da @aaaccnavegadores e @ccgirls.comp
@@ -25,7 +25,7 @@
 
 ```
 
-<h4 align="center"> Technologies 👾</h4>
+<h4 align="center"> Tech 👾</h4>
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
           
