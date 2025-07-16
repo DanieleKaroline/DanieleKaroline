@@ -8,7 +8,7 @@
 
 <div align="center">
 
-![Dani GitHub stats](https://github-readme-stats.vercel.app/api?username=DanieleKaroline&show_icons=true&theme=radical&count_private=true) 
+![Dani GitHub stats](https://github-readme-stats.vercel.app/api?username=DanieleKaroline&show_icons=true&theme=radical&count_private=true&) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanieleKaroline&hide_progress=true&theme=radical)
           
 </div>
@@ -32,7 +32,7 @@
 <h4 align="center"> Me encontre!</h4>
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/in/DanieleKaroline-fff?style=flat&logo=linkedin&logoColor=FFFFFF&labelColor=8b7bdf)](https://www.linkedin.com/in/danielekarolinec/)
+[![LinkedIn](https://img.shields.io/badge/in/DanieleKaroline-fff?style=flat&logo=linkedin&logoColor=FFFFFF&labelColor=8b7bdf))](https://www.linkedin.com/in/danielekarolinec/)
 [![Gmail](https://img.shields.io/badge/carvalho.danielekr@gmail.com-fff?style=flat&logo=gmail&logoColor=FFFFFF&labelColor=8b7bdf)](mailto:carvalho.danielekr@gmail.com)
 
 </div><br><hr>
