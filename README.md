@@ -1,4 +1,10 @@
-<h3 align="center">Hey, there! Im Dani :)</h3> 
+<div align="center">
+<h3>Hey, there! Im Dani :)</h3> 
+<img alt="Stars" src="https://img.shields.io/github/stars/DanieleKaroline">
+<img alt="Followers" src="https://img.shields.io/github/followers/DanieleKaroline?style=social">     
+</div>
+
+<hr><br><br>
 
 <div align="center">
 
@@ -7,10 +13,7 @@
           
 </div>
 
-
-<br>
-<hr>
-
+<br><hr>
 
 ```diff
 
@@ -23,9 +26,7 @@
 ! cronicamente online e rata de comunidades
 
 ```
-
-          
-  
+         
 </div><br><hr>
 
 <h4 align="center"> Me encontre!</h4>
