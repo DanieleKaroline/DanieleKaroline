@@ -31,11 +31,11 @@
 
 <h4 align="center"> Me encontre!</h4>
 <div align="center">
+<a href = "mailto:carvalho.danielekr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="[https://www.linkedin.com/in/seu-usuário-linkedln-aqui](https://www.linkedin.com/in/danielekarolinec/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/in/DanieleKaroline-fff?style=flat&logo=linkedin&logoColor=FFFFFF&labelColor=8b7bdf))](https://www.linkedin.com/in/danielekarolinec/)
-[![Gmail](https://img.shields.io/badge/carvalho.danielekr@gmail.com-fff?style=flat&logo=gmail&logoColor=FFFFFF&labelColor=8b7bdf)](mailto:carvalho.danielekr@gmail.com)
-
-</div><br><hr>
+<br><hr>
 
 <div align="center"> 
           
