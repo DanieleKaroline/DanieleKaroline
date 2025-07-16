@@ -1,4 +1,4 @@
-<h3 align="center">Hey, there! Im Dani :)</h3>
+<h3 align="center">Hey, there! Im Dani :)</h3> 
 
 <div align="center">
 
@@ -6,7 +6,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanieleKaroline&hide_progress=true&theme=radical)
           
 </div>
-
 
 
 <br>
@@ -31,9 +30,10 @@
 
 <h4 align="center"> Me encontre!</h4>
 <div align="center">
-<a href="https://instagram.com/dankac_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:carvalho.danielekr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="[https://www.linkedin.com/in/seu-usuário-linkedln-aqui](https://www.linkedin.com/in/danielekarolinec/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+
+[![LinkedIn](https://img.shields.io/badge/in/DanieleKaroline-fff?style=flat&logo=linkedin&logoColor=FFFFFF&labelColor=8b7bdf)](https://www.linkedin.com/in/danielekarolinec/)
+[![Gmail](https://img.shields.io/badge/carvalho.danielekr@gmail.com-fff?style=flat&logo=gmail&logoColor=FFFFFF&labelColor=8b7bdf)](mailto:carvalho.danielekr@gmail.com)
+
 </div><br><hr>
 
 <div align="center"> 
