@@ -43,7 +43,24 @@
 
 </div>
 
-<img align="left" src="https://media.giphy.com/media/CTX0ivSQbI78A/giphy.gif" width="300px" heigth="225px"/>
-<img align="right" src="https://media.giphy.com/media/xT5LMXA2FClO5yvy80/giphy.gif" width="300px" heigth="225px"/>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <img src="https://media.giphy.com/media/CTX0ivSQbI78A/giphy.gif" width="280px" alt="Bob Esponja e Patrick com tecnologia"/>
+        <br />
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN21uZjFwdWR0a3I2aG8xZ2JhcTluYmJkdWsxb2Ntdzd0eGwwOHBiaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iixdMr6cSURW/giphy.gif" width="280px" alt="Luffy comendo"/>
+        <br />
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://media.giphy.com/media/xT5LMXA2FClO5yvy80/giphy.gif" width="280px" alt="Homer Simpson com VR"/>
+        <br />
+      </td>
+    </tr>
+  </table>
+</div>
+
 <br><br>
 
