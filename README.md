@@ -8,8 +8,10 @@
 
 <div align="center">
 
-![Dani GitHub stats](https://github-readme-stats.vercel.app/api?username=DanieleKaroline&show_icons=true&theme=radical&count_private=true&) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanieleKaroline&hide_progress=true&theme=radical)
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DanieleKaroline&show_icons=true&theme=radical" alt="Daniele Karoline GitHub Stats"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanieleKaroline&layout=compact&langs_count=7&theme=tokyonight" alt="Daniele Karoline  Top Languages"/>
+</p>
           
 </div>
 
@@ -27,6 +29,18 @@
 
 ```
          
+</div><br><hr>
+
+
+
+<div align="center">
+<h4>Meus Conhecimentos</h4>
+          
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,linux,windows,mysql,php,py)](https://skillicons.dev)
+
+
+</div>
+
 </div><br><hr>
 
 <h4 align="center"> Me encontre!</h4>
