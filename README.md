@@ -1,5 +1,5 @@
 <div align="center">
-<h3>Hey, there! Im Dani :)</h3> 
+<h3>Hey, there! Im Dani ;)</h3> 
 <img alt="Stars" src="https://img.shields.io/github/stars/DanieleKaroline">
 <img alt="Followers" src="https://img.shields.io/github/followers/DanieleKaroline?style=social">     
 </div>
