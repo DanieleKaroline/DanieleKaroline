@@ -10,7 +10,7 @@
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DanieleKaroline&show_icons=true&theme=radical" alt="Daniele Karoline GitHub Stats"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanieleKaroline&layout=compact&langs_count=7&theme=tokyonight" alt="Daniele Karoline  Top Languages"/>
+ <!-- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanieleKaroline&layout=compact&langs_count=7&theme=tokyonight" alt="Daniele Karoline  Top Languages"/> -->
 </p>
           
 </div>
