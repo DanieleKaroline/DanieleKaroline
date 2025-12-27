@@ -5,7 +5,10 @@
 </div>
 
 <div align="center">
+🎓 Ciência da Computação na UFFS <br> 
+🚀 Explorando Sec, Cloud, e Dados.  
 
+</div>
 <!--<p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DanieleKaroline&show_icons=true&theme=radical" alt="Daniele Karoline GitHub Stats"/>
  <!-- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanieleKaroline&layout=compact&langs_count=7&theme=tokyonight" alt="Daniele Karoline  Top Languages"/> 
@@ -16,13 +19,10 @@
 <br><hr>
 
 ```diff
-
-> estudante de Ciência da Computação, na UFFS.
-> fã de Opensource, Infra, Redes, DevOps e Sec.
-
-! chegada numa cultura geek
-! founder da @aaaccnavegadores e @ccgirls.comp
-! estagiária por ai
++ Estudante de Ciência da Computação na UFFS.
++ Apaixonada por colaboração em Open Source, Redes e Infraestrutura.
++ Founder da @aaaccnavegadores e @ccgirls.comp 🌐
+! Geek, nerd, e fã de cultura pop sempre!
 ! cronicamente online e rata de comunidades
 
 ```
