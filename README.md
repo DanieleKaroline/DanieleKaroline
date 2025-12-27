@@ -4,14 +4,12 @@
 <img alt="Followers" src="https://img.shields.io/github/followers/DanieleKaroline?style=social">     
 </div>
 
-<hr><br><br>
-
 <div align="center">
 
-<p align="center">
+<!--<p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DanieleKaroline&show_icons=true&theme=radical" alt="Daniele Karoline GitHub Stats"/>
- <!-- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanieleKaroline&layout=compact&langs_count=7&theme=tokyonight" alt="Daniele Karoline  Top Languages"/> -->
-</p>
+ <!-- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanieleKaroline&layout=compact&langs_count=7&theme=tokyonight" alt="Daniele Karoline  Top Languages"/> 
+</p> -->
           
 </div>
 
